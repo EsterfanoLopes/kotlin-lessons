@@ -1,0 +1,3 @@
+[submodule "simple-blog"]
+	path = simple-blog
+	url = https://github.com/EsterfanoLopes/kotlin-simple-blog
