@@ -1,3 +1,6 @@
 [submodule "simple-blog"]
 	path = simple-blog
 	url = https://github.com/EsterfanoLopes/kotlin-simple-blog
+[submodule "crud"]
+	path = crud
+	url = https://github.com/EsterfanoLopes/kotlin-crud
