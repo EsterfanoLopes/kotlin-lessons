@@ -10,3 +10,6 @@
 [submodule "queue-consumer"]
 	path = queue-consumer
 	url = https://github.com/EsterfanoLopes/kotlin-queue-consumer
+[submodule "queue-producer"]
+	path = queue-producer
+	url = https://github.com/EsterfanoLopes/kotlin-queue-producer
